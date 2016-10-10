@@ -8,3 +8,10 @@ your text messages (SMS) either at the end, or in the middle or at the end, with
 <p> The app is just for the demo purpose, hence it does not contain any UI elements, Just 2 simple buttons to start and stop the service</p>
 
 <p>Some commands which can be included are as follows::</p>
+<p> 1. on silent mode :: Turns on the silent mode of your phone, off silent mode:: Turns off the silent mode </p>
+<p>2. automatic silent mode:: Toggles silent mode based on the optical density of the surroundings </p>
+<p>3. call me:: Makes a fake phone call from the phone to which the message has been sent </p>
+
+<p> Usage Example: Add the word "To Retter:" in your normal text message anywhere you want, and send it to a valid recipent using this app, followed by the command mentioned above , Example:: Hi, How are you?? To Retter: call me . When the recipent receives this message the app will make fake call to your phone </p>
+
+<p> For more queries:: Email me @:: yogaimpression@gmail.com or narasimhaprasannahn@gmail.com </p>
